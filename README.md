@@ -3,7 +3,6 @@
 
 ## 仓库结构
 
-- `release/`: 存放二进制资源文件。
 - `market/`: 存放用于推送更新的 `toml` 文件（`plugin-vpr.toml`）
 - `README.md`: 仓库说明文件。
 - `LICENSE`: 仓库许可证文件。
