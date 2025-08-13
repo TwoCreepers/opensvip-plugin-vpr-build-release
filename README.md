@@ -10,7 +10,7 @@
 
 ## 自动构建
 
-该仓库由 [opensvip-plugin-vpr](https://github.com/TwoCreepers/opensvip-plugin-vpr) 的 Github Actions 于有符合条件的Tag时自动测试并构建并推送到该仓库。  
+该仓库由 [opensvip-plugin-vpr](https://github.com/TwoCreepers/opensvip-plugin-vpr) 的 Github Actions 于有符合条件的Tag时自动测试构建并推送到该仓库。  
 该仓库基本不会有任何来自手动构建的二进制文件，手动构建的二进制文件应发布在[原仓库](https://github.com/TwoCreepers/opensvip-plugin-vpr)的发行版中。~~虽然原仓库大概没有发行版，作者真的很懒欸~~  
 
 ## issue与pr
