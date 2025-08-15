@@ -1,9 +1,9 @@
-Version = "1.0.2"
+Version = "1.0.3"
 RequiredFrameworkVersion = "1.4.2"
-Date = "2025-08-13"
-Prologue = "*该更新由 Github Actions 自动构建于 2025-08-13T05:43:39 (UTC) 并推送"
+Date = "2025-08-15"
+Prologue = "*该更新由 Github Actions 自动构建于 2025-08-15T12:41:31 (UTC) 并推送"
 Items = [
 
 ]
 Epilogue = ""
-DownloadLink = "https://github.com/TwoCreepers/opensvip-plugin-vpr-build-release/releases/download/v1.0.2/opensvip_plugin_vpr_1.0.2.zip"
+DownloadLink = "https://github.com/TwoCreepers/opensvip-plugin-vpr-build-release/releases/download/v1.0.3/opensvip_plugin_vpr_1.0.3.zip"
